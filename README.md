@@ -29,11 +29,6 @@ Pillow
 
 streamlit-drawable-canvas
 
-📁 Project Structure
-├── app.py              # Main Streamlit application
-├── mnist_cnn.keras     # Trained CNN model (converted from .h5)
-├── convert.py          # Script for converting old H5 models
-└── README.md           # Project documentation
 
 ▶️ Run the App
 
